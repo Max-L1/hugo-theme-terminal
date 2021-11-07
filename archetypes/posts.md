@@ -9,4 +9,5 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
+coverImgInPost = false
 +++
